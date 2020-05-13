@@ -1,4 +1,4 @@
-aa = [3,4,5,6,7,4]
+# aa = [3,4,5,6,7,4]
 
 def array_shift(array, val):
     new_number = int(val)
@@ -13,4 +13,4 @@ def array_shift(array, val):
     print(B)
 
 
-print(array_shift(aa, 4))
+# print(array_shift(aa, 4))
